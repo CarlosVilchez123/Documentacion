@@ -52,11 +52,11 @@ Tiene como atributos las siguientes variables:
 - id: Almacena el id de la cadena de consulta de la url obenida.
 - host: Almacena la IP host de los sesnores.
 
-Una de las funcionalidades de este proyecto es el de poder capturar el estado de la calidad de aire en un cierto intervalor de tiempo.
+Una de las funcionalidades de este proyecto es el de poder capturar el estado de la calidad de aire en un cierto intervalo de tiempo.
 
 ![Untitled](images/Untitled.png)
 
-Para ello se defnieron los siguientes Hooks.
+Para ello se definieron los siguientes Hooks.
 
 ```jsx
 const [opcion, setOpcion] = useState("PM2.5");
@@ -66,7 +66,7 @@ const [showCalendar1, setShowCalendar1] = useState(false);
 const [showCalendar2, setShowCalendar2] = useState(false);
 ```
 
-Nota: Recordar que en react, pata poder manipular variables y que estas se actulizan durante el renderizado de la pagina, es necesario usar los hooks.
+Nota: Recordar que en react, pata poder manipular variables y que estas se actualicen durante el renderizado de la pagina, es necesario usar los hooks.
 
 Tipos de variables:
 
