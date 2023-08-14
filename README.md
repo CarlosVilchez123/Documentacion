@@ -4,9 +4,7 @@
 
 - **Descripción**
 
-Este proyecto consta de medir el nivel de polución que hay en el aire dentro y
-
-fuera de las instalaciones de la Universidad Nacional de Ingeniería. Se tienen colocados sensores a lo largo de toda la UNI, estos están ubicado en la “Puerta 5”, en la “Puerta 3” y en el comedor central, estos sensores son sensores exteriores y su IP host es 181.176.1.0, también se tienen colocados sensores al interior del CTIC cuyo IP host es 192.168.1.0.
+Este proyecto consta de medir el nivel de polución que hay en el aire dentro y fuera de las instalaciones de la Universidad Nacional de Ingeniería. Se tienen colocados sensores a lo largo de toda la UNI, estos están ubicado en la “Puerta 5”, en la “Puerta 3” y en el comedor central, estos sensores son sensores exteriores y su IP host es 181.176.1.0, también se tienen colocados sensores al interior del CTIC cuyo IP host es 192.168.1.0.
 
 - **Implementación**
 
