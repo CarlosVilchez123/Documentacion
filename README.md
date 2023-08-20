@@ -16,8 +16,12 @@ Identificadores:
 - puerta 5
 - puerta 3
 
-## Identificador de los sesonres por lugar geografico
-###   	
+## Identificador de los sensores por lugar geografico
+- ctic -> Id del Sensor: "beegons:rak-3272s-e"
+- puerta 5 -> Id del Sensor: "beegons:rak-3272s-f"
+- puerta 3 -> Id del Sensor: "beegons:rak-3272s-h"
+
+
 
 
 
