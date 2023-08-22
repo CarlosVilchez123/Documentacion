@@ -56,7 +56,7 @@ Ruta -> "src/pages/CuentaPersonas/ControlAforo.js"
 
 Para obtener la cantidad de personas se requiere obtener la informacion que capturan los sensores, para obtener dicha informacion requerimos realizar la peticion a la api, y para obtener los datos actualizados del conteo de personas que ingresan a un resinto, requerimos habilitar un socket que permita recibir la información.
 
-## Lammada a la API
+## Lamada a la API
 Para poder realizar la llamada a la API de conteo personas requerimos los siguientes identificadores:
 - la url del servidor (es la misma que el de calidad de aire)
 - la cadena de la consulta que tiene la siguiente forma /api/v1/cuenta-persona/, el identificador del sensor del cual querramos extraer la informacion. Los id son ctic o smartcity y por ultimo concatenamos la siguiente cadena "?last=20&columns=001001"
