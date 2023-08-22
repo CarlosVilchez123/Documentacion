@@ -69,10 +69,10 @@ De la petición necesitamos extraer el dato de la ultima persona que entro a un 
 ## Descarga de datos API de descarga  
 Ruta -> "src/pages/CuentaPersonas/PopupDescarga.js"
 
-Para hacer consumo de la API de descarga cuando necesitemos llamarla como funcion necesitamos la url del servidor y el id del resinto del cual querramos obtener información.
+Para hacer consumo de la API de descarga cuando necesitemos llamarla como funcion, en algun otro proyecto, necesitamos la url del servidor y el id del resinto del cual querramos obtener información.
 
 Dentro de la misma la laogica esta implementada de la siguiente manera:
-- Necesitamos la ip del sensor, la cadena /api/v1/cuenta-persona/descargar el id del resinto del cual se requiere obtener información y el rango de fechas del historias de los sensores y por ultimo concatenamos la siguiente cadena "&columns=001001".
+- Necesitamos la ip del sensor, la cadena /api/v1/cuenta-persona/descargar el id del resinto; del cual, se requiere obtener información y el rango de fechas del historias de los sensores y por ultimo concatenamos la siguiente cadena "&columns=001001".
 
 # Proyecto Calidad de Agua
 Este proyecto tiene la siguiente ruta -> "src/pages/CalidadAgua.js"
